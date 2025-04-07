@@ -1,0 +1,5 @@
+Login: https://login.microsoftonline.com/e28c41b9-4741-4084-8292-fd5c6dfbf51e/saml2
+
+Microsoft Entra ID: https://sts.windows.net/e28c41b9-4741-4084-8292-fd5c6dfbf51e/
+
+Logout: https://login.microsoftonline.com/e28c41b9-4741-4084-8292-fd5c6dfbf51e/saml2
