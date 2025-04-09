@@ -15,8 +15,7 @@ CryptoGuardAI is aimed at detecting phishing emails and securing email communica
 - Required Python libraries: `flask`, `werkzeug`, `pandas`, `scikit-learn`
 
 ### References
-###Code
-
+### Code
 [1] Flask: Pallets Projects. (2023). Flask (version 3.0.3). https://flask.palletsprojects.com/
 
 [2] ChatGPT: OpenAI. (2024, August 29). ChatGPT. https://chatgpt.com/
@@ -31,7 +30,6 @@ CryptoGuardAI is aimed at detecting phishing emails and securing email communica
 
 [7] Werkzeug: Pallets Projects. (2023). Werkzeug (version 3.0.3). https://werkzeug.palletsprojects.com/
 
-###Datasets
-
+### Datasets
 [1] ChatGPT: OpenAI. (2024, August 29). ChatGPT. https://chatgpt.com/
 
